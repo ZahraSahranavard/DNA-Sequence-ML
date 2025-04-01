@@ -1,5 +1,5 @@
 # DNA Sequence Classification using Machine Learning
-
+## Overview 
 This project classifies DNA sequences using machine learning techniques. DNA sequence classification is a fundamental task in bioinformatics with applications in genomics, proteomics, and personalized medicine. This project offers a simple and effective approach to DNA sequence classification using k-mer analysis and the Multinomial Naive Bayes algorithm.
 
 ## Dataset
